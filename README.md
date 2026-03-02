@@ -1,6 +1,7 @@
 Project Documentation: Auto-Wrangle CLI
 AI-Powered Automated Data Engineering Tool
 While analyzing datasets of 1,000+ retail leads, the manual effort required for data cleaning became a significant bottleneck. This tool was developed to automate exploratory data analysis (EDA) and preprocessing by utilizing LLMs to generate and execute local Python code.
+(**NOTE: RAW DATA SHEET AND OUTPUT_CSV IS ONLY FOR YOUR REFERENCE AND U NEED TO ADD YOUR OWN API KEY, MORE INSTRUCTIONS BELOW)
 
 1. Functional Overview
 The Auto-Wrangle CLI acts as an autonomous agent that bridges the gap between natural language instructions and technical data manipulation. It takes a raw CSV file and a task description, then synthesizes a custom Pandas script to perform the requested operations.
@@ -62,4 +63,3 @@ Data Engineering: Pandas, ETL Pipelines, Schema Analysis.
 AI/ML Integration: LLM Prompt Engineering, API Orchestration, Code Synthesis.
 
 
-#also attatching a dataset u can try to !!
